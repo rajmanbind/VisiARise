@@ -22,7 +22,7 @@ Ensure you have the following software installed on your system. If not, use the
 Open a terminal and run the following command to clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/your-repository.git](https://github.com/rajmanbind/VisiARise.git)
+git clone https://github.com/rajmanbind/VisiARise.git
 
 ```
 ### 2. Navigate to Project Directory 
