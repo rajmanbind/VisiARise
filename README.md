@@ -27,15 +27,18 @@ git clone [https://github.com/your-username/your-repository.git](https://github.
 ```
 ### 2. Navigate to Project Directory 
 Go to the project folder: 
-```cd backend
+```bash
+cd backend
 ```
 ### 3. Install Dependencies
 
-```npm install
+```bash
+npm install
 ```
 ### 4. Start the Project
-Start teh project with:
-```npm start```
+Start the project with:
+```bash
+npm start```
 
 
 The app should now be running on http://localhost:5000
