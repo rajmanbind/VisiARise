@@ -24,15 +24,18 @@ Open a terminal and run the following command to clone the repository:
 ```bash
 git clone [https://github.com/your-username/your-repository.git](https://github.com/rajmanbind/VisiARise.git)
 
+```
 ### 2. Navigate to Project Directory 
 Go to the project folder: 
 ```cd backend
-###3. Install Dependencies
+```
+### 3. Install Dependencies
 
 ```npm install
-###4. Start the Project
+```
+### 4. Start the Project
 Start teh project with:
-```npm start
+```npm start```
 
 
 The app should now be running on http://localhost:5000
